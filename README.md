@@ -37,7 +37,7 @@ Date: January 28, 2025
 
 ---
 
-## ✅ What I Did – Step by Step
+## ✅  Step by Step process
 
 ### 1. Field Data Collection  
 Captured high-resolution images of ridge gourd leaves from a real field using natural lighting to reflect real farming conditions.
@@ -71,23 +71,6 @@ Tested the model using:
 
 - Mean Average Precision (mAP@0.5): 0.992  
 - Minimal confusion between early-stage and healthy leaf detection
-
----
-
-## 🗂 Project Structure
-
-Ridge-Gourd-Disease-Detection/
-├── model/
-│ └── best.pt → Trained model file
-├── dataset/
-│ └── ridge_gourd_dataset.zip → Full dataset (82MB)
-├── presentation/
-│ ├── final_ppt.pptx → Conference presentation
-│ └── abstract.png 
-├── results/
-│ └── confusion_matrix.png, plots
-├── README.md
-└── abstract.txt
 
 ---
 
